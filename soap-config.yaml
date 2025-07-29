@@ -1,5 +1,5 @@
 plugin: soap
-wsdlFile: wsdl/ServeurLWS.wsdl
+wsdlFile: wsdl/
 response:                   
   scriptFile: example.groovy
 
