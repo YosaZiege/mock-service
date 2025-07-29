@@ -1,1 +1,1 @@
-FROM ghcr.io/germanespinosa/imposter:latest
+FROM outofcoffee/imposter:latest
