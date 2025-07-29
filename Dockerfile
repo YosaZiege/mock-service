@@ -1,6 +1,6 @@
 FROM outofcoffee/imposter
 
-COPY ./soap-config/ /opt/imposter/config/
+COPY ./soap-config.yaml /opt/imposter/config/soap-config.yaml
 COPY start.sh /start.sh
 RUN chmod +x /start.sh
 
